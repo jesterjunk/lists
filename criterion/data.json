@@ -3,9 +3,10 @@
         "timestamp": "20240801T080816571895300Za2430bf4952540f7bb5b7e8a51a1dd28",
         "count": 1697,
         "note": [
-            "The data_collection.timestamp is when the initial data was collected from https://www.criterion.com/shop/browse/list",
+            "The data_collection.timestamp is when the initial data was collected from criterion.com/shop/browse/list",
             "The data_collection.count is the number of entries that were collected.",
-            ""
+            "This list of entries is a foundation starting point, and should not change accept where missing information for each entry is added where possible.",
+            "The order of this list is the default order that it was displayed on the criterion.com/shop/browse/list page, but it is not really important, since it can be sorted and filtered in a tabulated format on a web page."
         ]
     },
     "entries": [
